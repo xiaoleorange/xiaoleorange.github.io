@@ -16,6 +16,8 @@ Male
 xiaoleorange@gmail.com
 
 ## Music Festivals I Have Been Visited 🎸
+
+### Music Festivals in China
 * 2019 春浪音乐节（中国 上海）
 * 2019 春浪音乐节（中国 上海）
 * 2019 仙人掌音乐节（中国 成都）
@@ -24,6 +26,8 @@ xiaoleorange@gmail.com
 * 2020 咪豆音乐节（中国 南京）
 * 2020 草莓音乐节（中国 杭州）
 * 2021 草莓音乐节（中国 南京）
+
+### Music Festivals in Japan
 * 2022 COUNTDOWN JAPAN 2223(日本 千葉)
 
 ## Japanese bands I have seen live 🪩
