@@ -1,6 +1,6 @@
 theme: jekyll-theme-slate 
-title:  #This is the homepage of Wang Tianle, welcome!
-description: #Who likes lives.
+title:  This is the homepage of Wang Tianle, welcome!
+description: Who likes lives.
 plugins: 
     - jemoji 
 url: "https://xiaoleorange.github.io" 
